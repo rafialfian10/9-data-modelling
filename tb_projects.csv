@@ -1,0 +1,5 @@
+"id","project_name","start_date","end_date","desc","tech","image"
+1,"Hacktiv8","2022-11-25","2024-04-20","Halo Hacktiv8","{react,node,angular}","3.jpg"
+2,"Dicoding","2022-11-25","2023-01-10","Halo Dicoding","{node,typescript,react}","2.png"
+3,"Dumbways","2022-11-25","2024-01-25","Halo Dumbways","{node,react,angular}","3.png"
+4,"Niomic","2022-11-25","2022-12-18","Halo Niomic","{node,react}","4.png"
